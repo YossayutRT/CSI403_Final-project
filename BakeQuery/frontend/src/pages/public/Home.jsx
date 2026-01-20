@@ -28,6 +28,7 @@ const MOCK_PRODUCTS = [
   { id: 22, name: 'Whole Wheat Loaf', category: 'Bread', price: 95, image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=600', description: 'ขนมปังโฮลวีต 100% เพื่อสุขภาพ เนื้อแน่น' },
   { id: 23, name: 'Oatmeal Raisin Cookie', category: 'Cookie', price: 40, image: 'https://iambaker.net/wp-content/uploads/2024/10/Oatmeal-Raisin-Cookies-1.jpg', description: 'คุกกี้ข้าวโอ๊ตผสมลูกเกด หวานธรรมชาติ' },
   { id: 24, name: 'Rich Hot Chocolate', category: 'Beverage', price: 90, image: 'https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?auto=format&fit=crop&q=80&w=600', description: 'ช็อกโกแลตร้อนพรีเมียม เข้มข้น ท็อปด้วยวิปครีม' },
+  
 ];
 
 
